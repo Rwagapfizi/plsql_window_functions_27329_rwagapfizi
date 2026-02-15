@@ -5,7 +5,7 @@
 **Group:** B  
 **Course:** Database Development with PL/SQL (INSY 8311)  
 **Instructor:** Eric Maniraguha  
-**Date:** February 2024  
+**Date:** February 2026  
 **DBMS:** MariaDB  
 **Repository:** `plsql_window_functions_27329_Rwagapfizi`
 
